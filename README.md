@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cuong</h1>
-<h3 align="center">A passionate a full-stack developer and an AI engineer from Vietnam.</h3>
+<h3 align="center">A passionate full-stack developer and AI engineer from Vietnam.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
